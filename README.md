@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4b5847a5-3753-416a-b3fd-42857bfa6699" width="200" />
+</p>
+
 # 📊 CVV SCRP
 
 Uno script Python per estrarre i voti dal registro elettronico *Spaggiari* tramite scraping, e salvarli in un file Excel ordinato e leggibile.
