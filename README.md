@@ -6,7 +6,7 @@
 
 Uno script Python per estrarre i voti dal registro elettronico *Spaggiari* tramite scraping, e salvarli in un file Excel ordinato e leggibile.
 
-> ⚠️ **Nota.** Questo progetto è in fase iniziale di sviluppo, aspettati molti cambiamenti.
+> ⚠️ **Nota:** Questo progetto è in fase iniziale di sviluppo, aspettati molti cambiamenti.
 
 ---
 
