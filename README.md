@@ -70,3 +70,11 @@ Hai suggerimenti, problemi? Non esitare a contattarmi:
 🗨️ Discord: `attempingtoindexnil`
 
 ✉️ E-Mail: alessio@notswaggames.com
+
+## 🤝 Ringraziamento
+
+Ringrazio specialmente Valerio per essersi occupato del logo e del lavoro che sta facendo per la parte grafica.
+
+📷 [Instagram](https://instagram.com/formercompa)
+
+✉️ E-Mail: valerio@notswaggames.com
