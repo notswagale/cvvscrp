@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4b5847a5-3753-416a-b3fd-42857bfa6699" width="200" />
+  <img src="https://github.com/user-attachments/assets/4033757e-7da3-4e1b-b535-b3369c5af9bb" width="200" />
+
 </p>
 
 # 📊 CVV SCRP
