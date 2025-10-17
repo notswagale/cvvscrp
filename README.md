@@ -1,3 +1,5 @@
+# NOTE: This was a school project and it is discontinued.
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4033757e-7da3-4e1b-b535-b3369c5af9bb" width="200" />
 
@@ -61,21 +63,3 @@ pip install requests beautifulsoup4 pandas xlsxwriter
 - **Verifica i cookie**: i cookie di sessione possono scadere. Se il file non si genera, controlla che siano aggiornati.
 - **Non usare questo script per automatizzare accessi non autorizzati.**
 - **La struttura del sito potrebbe cambiare**: in tal caso, potrebbe essere necessario aggiornare lo script.
-
----
-
-## 📬 Contatti
-
-Hai suggerimenti, problemi? Non esitare a contattarmi:
-
-🗨️ Discord: `attempingtoindexnil`
-
-✉️ E-Mail: alessio@notswaggames.com
-
-## 🤝 Ringraziamento
-
-Ringrazio specialmente Valerio per essersi occupato del logo e del lavoro che sta facendo per la parte grafica.
-
-📷 [Instagram](https://instagram.com/formercompa)
-
-✉️ E-Mail: valerio@notswaggames.com
